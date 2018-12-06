@@ -1,0 +1,19 @@
+{
+  "name": "multiplayer-pong",
+  "version": "1.0.0",
+  "description": "Multiplayer pong over the network.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/acasmith/multiplayer-pong.git"
+  },
+  "author": "Adam Smith",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/acasmith/multiplayer-pong/issues"
+  },
+  "homepage": "https://github.com/acasmith/multiplayer-pong#readme"
+}
